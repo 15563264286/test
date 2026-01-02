@@ -1,5 +1,5 @@
-# test
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="VoD
+<pre>
+VoD
     ├── lidar
          ├── ImageSets ── ── ── ── ── ── /***.txt
          ├── training
@@ -16,4 +16,4 @@
     ├── radar (like lidar)
     ├── radar_3_scans (like lidar)
     ├── radar_5_scans   (like lidar)
-</code></pre></div>
+</pre>
